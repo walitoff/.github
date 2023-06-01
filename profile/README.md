@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
+<img src="/profile/media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
 <p>
   We are a tiny studio with passion for creating beautiful and useful things.
 </p>
