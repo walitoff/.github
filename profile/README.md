@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/telegram-%23229ED9.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://www.linkedin.com/in/ramilvalitov/)
 
 <div align="center">
-<img src="media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
+<img src="./media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
 <p>
   We are a tiny studio with passion for creating beautiful and useful things. We focus on:
 </p>
