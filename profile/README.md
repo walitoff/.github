@@ -2,7 +2,7 @@
 [![Email](https://img.shields.io/static/v1?label=\&message=Email\&color=009688\&style=for-the-badge)](mailto:contact@walitoff.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/company/walitoff/)
 [![Facebook](https://img.shields.io/badge/facebook-%233B5998.svg?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/walitoff/)
-[![Telegram](https://img.shields.io/badge/telegram-%23229ED9.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://www.linkedin.com/in/ramilvalitov/)
+[![Telegram](https://img.shields.io/badge/telegram-%23229ED9.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/walitoff_studio)
 
 <div align="center">
 <img src="/profile/media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
@@ -39,7 +39,7 @@ Contacts
 
 [![Website](https://img.shields.io/static/v1?label=\&message=Website\&color=c62828\&style=for-the-badge)](https://walitoff.com)
 [![Email](https://img.shields.io/static/v1?label=\&message=Email\&color=009688\&style=for-the-badge)](mailto:contact@walitoff.com)
-[![Telegram](https://img.shields.io/badge/telegram-%23229ED9.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://www.linkedin.com/in/ramilvalitov/)
+[![Telegram](https://img.shields.io/badge/telegram-%23229ED9.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/walitoff)
 
 </div>
 
@@ -50,6 +50,6 @@ Follow us
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/company/walitoff/)
 [![Facebook](https://img.shields.io/badge/facebook-%233B5998.svg?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/walitoff/)
-[![Telegram](https://img.shields.io/badge/telegram-%23229ED9.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://www.linkedin.com/in/ramilvalitov/)
+[![Telegram](https://img.shields.io/badge/telegram-%23229ED9.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://t.me/walitoff_studio)
 
 </div>
