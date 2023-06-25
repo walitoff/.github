@@ -5,18 +5,18 @@
 [![Telegram](https://img.shields.io/badge/telegram-%23229ED9.svg?style=for-the-badge\&logo=telegram\&logoColor=white)](https://www.linkedin.com/in/ramilvalitov/)
 
 <div align="center">
-<img src="./media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
+<img src="/profile/media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
 <p>
   We are a tiny studio with passion for creating beautiful and useful things. We focus on:
 </p>
 
-![Programming](media/programming.jpg)
-![Responsive websites development](media/responsive-websites.jpg)
-![Mobile & web apps development](media/mobile-apps.jpg)
-![Desktop software development](media/desktop-software.jpg)
-![Device integrations](media/device-integrations.jpg)
-![Cybersecurity & pentesting](media/cybersecurity.jpg)
-![Eco consciousness](media/eco-conscious.jpg)
+![Programming](/profile/media/programming.jpg)
+![Responsive websites development](/profile/media/responsive-websites.jpg)
+![Mobile & web apps development](/profile/media/mobile-apps.jpg)
+![Desktop software development](/profile/media/desktop-software.jpg)
+![Device integrations](/profile/media/device-integrations.jpg)
+![Cybersecurity & pentesting](/profile/media/cybersecurity.jpg)
+![Eco consciousness](/profile/media/eco-conscious.jpg)
 
 </div>
 
