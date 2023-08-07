@@ -4,7 +4,7 @@
   We are a tiny studio with passion for creating beautiful and useful things. We focus on:
 </p>
 
-![Programming](./media/programming.jpg)
+![Programming](https://github.com/walitoff/.github/blob/main/profile/media/programming.jpg)
 ![Responsive websites development](/profile/media/responsive-websites.jpg)
 ![Mobile & web apps development](/profile/media/mobile-apps.jpg)
 ![Desktop software development](/profile/media/desktop-software.jpg)
