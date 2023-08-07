@@ -1,16 +1,16 @@
 <div align="center">
-<img src="/profile/media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
+<img src="https://github.com/walitoff/.github/blob/main/profile/media/walitoff-black-red.png" width="220" alt="Walitoff Studio logo">
 <p>
   We are a tiny studio with passion for creating beautiful and useful things. We focus on:
 </p>
 
 ![Programming](https://github.com/walitoff/.github/blob/main/profile/media/programming.jpg)
-![Responsive websites development](/profile/media/responsive-websites.jpg)
-![Mobile & web apps development](/profile/media/mobile-apps.jpg)
-![Desktop software development](/profile/media/desktop-software.jpg)
-![Device integrations](/profile/media/device-integrations.jpg)
-![Cybersecurity & pentesting](/profile/media/cybersecurity.jpg)
-![Eco consciousness](/profile/media/eco-conscious.jpg)
+![Responsive websites development](https://github.com/walitoff/.github/blob/main/profile/media/responsive-websites.jpg)
+![Mobile & web apps development](https://github.com/walitoff/.github/blob/main/profile/media/mobile-apps.jpg)
+![Desktop software development](https://github.com/walitoff/.github/blob/main/profile/media/desktop-software.jpg)
+![Device integrations](https://github.com/walitoff/.github/blob/main/profile/media/device-integrations.jpg)
+![Cybersecurity & pentesting](https://github.com/walitoff/.github/blob/main/profile/media/cybersecurity.jpg)
+![Eco consciousness](https://github.com/walitoff/.github/blob/main/profile/media/eco-conscious.jpg)
 
 </div>
 
